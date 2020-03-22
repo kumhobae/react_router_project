@@ -17,6 +17,8 @@ class Header extends Component{
                         <li><NavLink to={"/box-office"}>박스오피스</NavLink></li>
                         <li><NavLink to={"/news"}>뉴스</NavLink></li>
                         <li><NavLink to={"/find"}>영화찾기</NavLink></li>
+                        <li><NavLink to={"/reserve"}>Reserve</NavLink></li>
+                        <li><NavLink to={"/music"}>Music</NavLink></li>
                         <li><NavLink to={"/"}>영화예매</NavLink></li>
                     </ul>
                 </div>
